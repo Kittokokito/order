@@ -1,5 +1,5 @@
 // --- ⬇️ ใส่ Web app URL ที่ถูกต้องของคุณตรงนี้! ⬇️ ---
-const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyRO_WU54Ebtum0-xIbhEShGm3Ml1-bOtecR6ltfh_JuEkd6nTjsLX2w7LWbY_1RpcZ/exec';
+const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyoHKwEjxe0ofLfb5iG64t2-BOK9BVio_3b0P33LNg0TEAtSX_1IR4ppnyPE6ZXyZdxaw/exec';
 // ----------------------------------------------------
 
 window.addEventListener('DOMContentLoaded', () => {
